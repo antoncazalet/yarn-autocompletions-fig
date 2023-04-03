@@ -1,6 +1,6 @@
 {
   "name": "@acazalet/yarn-autocompletions-fig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Autocompletions for Yarn Workspaces",
   "private": false,
   "scripts": {
